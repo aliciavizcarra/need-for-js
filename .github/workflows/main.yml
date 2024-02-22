@@ -1,0 +1,6 @@
+name: 
+   actualizacion-pixar
+on: 
+  push:
+	  branches:
+	  -master
